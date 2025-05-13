@@ -58,8 +58,8 @@ Funcionalidade: Login na plataforma EBAC-SHOP
 
     Exemplos:
       | nome  | sobrenome | email             | telefone  |
-      |       | Silva     | jose@email.com    | 119999999 |
-      | Ana   |           | ana@email.com     |           |
+      | maria | Silva     | jose@email.com    | 119999999 |
+      | Ana   | santos    | ana@email.com     | 119999999 |
       | João  | Souza     | joaoemail.com     | 119999999 |
 
 
